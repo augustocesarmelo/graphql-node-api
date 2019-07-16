@@ -1,3 +1,3 @@
 console.log("Olá Mundo");
 
-let a: string = 'Olá';
+console.log("alteração lida pelo nodemon")

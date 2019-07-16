@@ -21,7 +21,7 @@ gulp.task('static', ['clean'], () => {
 
 gulp.task('clean', () => {
     return gulp
-        .src('dist')
+        .src('dist/*')
         .pipe(clean());
 });
 
