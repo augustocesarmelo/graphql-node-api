@@ -6,4 +6,4 @@ Acompanhamento do Curso de Graphql
 * npm i -D -E gulp@3.9.1 gulp-typescript@3.2.2 gulp-clean@0.3.2
 
 ### build do projeto
-* node_modules/.bin/gulp
+* npm run gulp
