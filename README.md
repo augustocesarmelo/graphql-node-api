@@ -9,6 +9,8 @@ Acompanhamento do Curso de Graphql
 * npm i -D -E @types/express@4.0.37 @types/node@8.0.34
 * npm i -S -E express-graphql@0.6.11 graphql@0.11.7 graphql-tools@2.3.0
 * npm i -D -E @types/express-graphql@0.0.34 @types/graphql@0.11.5
+* npm i -S -E sequelize@4.13.10 mysql2@1.4.2
+* npm i -D -E @types/sequelize@4.0.76
 
 ### build do projeto
 * npm run gulp
